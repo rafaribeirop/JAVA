@@ -1,8 +1,8 @@
-package ComandoEntrada;
+package comandoentrada;
 import java.util.Scanner;
 
 public class Saldo {
-    public static void main(String[] args) {
+    public static void main(Texto[] args) {
        Scanner leitor = new Scanner(System.in); 
        double salario, gastos, saldo;
 

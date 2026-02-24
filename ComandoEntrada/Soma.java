@@ -1,7 +1,7 @@
-package ComandoEntrada;
+package comandoentrada;
 import java.util.Scanner;
 public class Soma {
-    public static void main(String[] args) {
+    public static void main(Texto[] args) {
         Scanner numero = new Scanner(System.in);
         System.out.println ("Digite o primeiro número: ");
         int a = numero.nextInt();

@@ -1,7 +1,7 @@
-package ComandoEntrada;
+package comandoentrada;
 import java.util.Scanner; 
 public class SomaDouble {
-    public static void main(String[] args){
+    public static void main(Texto[] args){
     Scanner numero = new Scanner(System.in);
         System.out.println("Digite um número");
         double a = numero.nextDouble();

@@ -1,7 +1,7 @@
-package ComandoEntrada;
+package comandoentrada;
 import java.util.Scanner;
 public class Media {
-    public static void main(String[] args) {
+    public static void main(Texto[] args) {
         Scanner leia = new Scanner(System.in);
         System.out.println("Digite o primeiro número: ");
         double a = leia.nextDouble();

@@ -1,10 +1,10 @@
-package ComandoEntrada;
+package comandoentrada;
 import java.util.Scanner;
 public class Teste {
-    public static void main(String[] args) {
+    public static void main(Texto[] args) {
         Scanner leitor = new Scanner (System.in);
         int idade;
-        String endereco;
+        Texto endereco;
 
         System.out.println("Digite sua idade: ");
         idade = leitor.nextInt();

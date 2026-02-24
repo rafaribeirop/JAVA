@@ -1,7 +1,7 @@
-package ComandoEntrada;
+package comandoentrada;
 import java.util.Scanner;
 public class Multiplicacao {
-    public static void main(String[] args) {
+    public static void main(Texto[] args) {
         Scanner entrada = new Scanner(System.in);
         System.out.println("Digite um número: ");
         double a = entrada.nextDouble();

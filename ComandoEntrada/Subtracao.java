@@ -1,7 +1,7 @@
-package ComandoEntrada;
+package comandoentrada;
 import java.util.Scanner;
 public class Subtracao {
-    public static void main(String[] args) {
+    public static void main(Texto[] args) {
         Scanner entrada = new Scanner (System.in);
         int a;
         int b;
