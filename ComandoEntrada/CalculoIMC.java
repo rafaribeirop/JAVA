@@ -1,6 +1,6 @@
 package ComandoEntrada;
 import java.util.Scanner;
-public class CalculoImc {
+public class CalculoIMC {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         double altura, peso, imc;
