@@ -1,13 +1,13 @@
 package comandoentrada;
 import java.util.Scanner;
 public class MediaNota {
-    public static void main(Texto[] args) {
+    public static void main(String[] args) {
     //Variaveis
       Scanner entrada = new Scanner(System.in);
       float n1;
       float n2;
       float media;
-      Texto nome; //o String sempre com letra maiuscula!
+      String nome; //o String sempre com letra maiuscula!
     //Entrada
         System.out.println("Qual seu nome? ");
         nome = entrada.nextLine();
