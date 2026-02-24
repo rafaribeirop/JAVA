@@ -1,4 +1,4 @@
-package comandoentrada;
+package ComandoEntrada;
 import java.util.Scanner;
 public class Multiplicacao {
     public static void main(Texto[] args) {
