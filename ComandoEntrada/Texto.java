@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Texto {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
-        String nome, palavra, texto;
+        String nome, palavra;
 
         System.out.println("Digite seu nome completo: ");
         nome = entrada.nextLine();

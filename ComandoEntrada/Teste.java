@@ -12,6 +12,8 @@ public class Teste {
         leitor.nextLine(); //buffer do scanner
         endereco = leitor.nextLine();
 
+        System.out.println(idade + endereco);
+        leitor.close();
     }
     
 }
