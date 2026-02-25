@@ -1,6 +1,6 @@
 package Operadores;
 import java.util.Scanner;
-public class raizquadrada {
+public class RaizQuadrada {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         int rq;

@@ -1,6 +1,6 @@
 package Operadores;
 
-public class Operadores {
+public class Operacoes {
     public static void main(String[] args) {
 
     // Testando Operações

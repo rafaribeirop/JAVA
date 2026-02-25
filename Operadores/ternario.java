@@ -1,6 +1,6 @@
 package Operadores;
 import java.util.Scanner;
-public class ternario {
+public class Ternario {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         int n1;

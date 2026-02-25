@@ -1,6 +1,6 @@
 package Operadores;
 import java.util.Scanner;
-public class temperatura {
+public class Temperatura {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         double f;
