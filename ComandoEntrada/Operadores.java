@@ -3,41 +3,71 @@ package ComandoEntrada;
 public class Operadores {
     public static void main(String[] args) {
 
-    /* int a = 8;
+    // Testando Operações
+
+        System.out.println("Operadores Unários");
+        int a = 6;
         int b = 2;
-       resultado = a++ + b;
-       System.out.println(resultado);
-     */
+        int ab = a + ++b;
+        System.out.println(a + "+" + b + "=" + ab);
+        // atribuição
+        System.out.println("Atribuição");
+        int i = 1;
+        int j = 3;
+        int ij = i += j;
+        System.out.println(ij);
 
-       /* 
-       int resultado = (int) Math.pow(5, 2);
-       System.out.println(resultado); */
+        // classe math
+            System.out.println("Raiz Quadrada");
+            int rq = 64;
+            int re = (int) Math.sqrt(rq);
+            System.out.println("A raiz quadradade de " + rq + " é: " + re);
 
-       /* ARREDONDAMENTO
-       double ab, n, n1, n2;
+            System.out.println("Raiz Cúbica");
+            int rc = 125;
+            int res = (int) Math.cbrt(rc);
+            System.out.println("A raiz cúbica de " + rc + " é: " + res);
 
-       ab = Math.abs(-5);
-       System.out.println(ab);
+            System.out.println("Potênciação");
+            int n = 3;
+            int e = 3;
+            int p = (int) Math.pow(n, e);
+            System.out.println(n + "^" + e + "=" + p);
 
-       n = Math.round(3.3);
-       System.out.println(n);
+            System.out.println("Valor absoluto");
+            int neg = -16;
+            int abs = Math.abs(neg);
+            System.out.println("O valor absoluto de "+ neg + " é: " + abs);
 
-       n1 = Math.floor(9.9);
-       System.out.println(n1);
+            System.out.println("PI");
+            double pi = Math.PI;
+            System.out.printf("%.2f%n", pi);
+            double piP = a * pi;
+            System.out.printf(a +" * "+ pi +" é: %.2f%n", piP);
+       
 
-       n2 = Math.ceil(6.1);
-       System.out.println(n2); */
+            // arredondamentos
+                System.out.println("Valores arredondados");
+    
+                System.out.println("Floor");
+                double z = Math.floor(9.9);
+                System.out.println(z);
 
-       int r = (int) 0 + Math.random() * (9-0);
-       System.out.println(r);
+                System.out.println("Ceil");
+                double y = Math.ceil(7.3);
+                System.out.println(y);
 
+                System.out.println("Round");
+                double x = Math.round(5.6);
+                System.out.println(x);
 
 
     
 
-        
 
 
-        
+
+
     }
+    
 }
