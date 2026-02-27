@@ -1,4 +1,4 @@
-package Repeticao;
+package Desafios;
 
 import java.util.Scanner;
 
