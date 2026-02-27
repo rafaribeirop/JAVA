@@ -13,8 +13,8 @@ public class Tabuada {
         numero = entrada.nextInt();
         System.out.println("------");
 
-        for(i = numero; i <= 10; i++){
-            System.out.println(i * numero);
+        for(i = 1; i <= 10; i++){
+            System.out.println(numero + "x"+ i + "= "+ i * numero);
         }
         entrada.close();
     }
