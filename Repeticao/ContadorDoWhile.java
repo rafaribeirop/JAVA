@@ -1,4 +1,4 @@
-package EstruturasDeRepeticao;
+package Repeticao;
 
 public class ContadorDoWhile {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ComandoEntrada;
+package Basico;
 import java.util.Scanner;
 public class Texto {
     public static void main(String[] args) {

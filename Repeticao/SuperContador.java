@@ -1,4 +1,4 @@
-package EstruturasDeRepeticao;
+package Repeticao;
 
 import java.util.Scanner;
 
@@ -38,6 +38,8 @@ public class SuperContador {
             resp = entrada.next();
 
         } while (resp.equals("S") && (r!= 3));
+
+        entrada.close();
 
     }
     

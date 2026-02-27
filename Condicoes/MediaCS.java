@@ -1,4 +1,4 @@
-package EstruturasCondicionais;
+package Condicoes;
 import java.util.Scanner;
 public class MediaCS {
     public static void main(String[] args) {

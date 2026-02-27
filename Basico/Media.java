@@ -1,4 +1,4 @@
-package ComandoEntrada;
+package Basico;
 import java.util.Scanner;
 public class Media {
     public static void main(Texto[] args) {

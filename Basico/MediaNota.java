@@ -1,4 +1,4 @@
-package ComandoEntrada;
+package Basico;
 import java.util.Scanner;
 public class MediaNota {
     public static void main(String[] args) {
