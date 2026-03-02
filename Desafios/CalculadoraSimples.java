@@ -22,7 +22,7 @@ public class CalculadoraSimples {
             System.out.println("===============================");
             resposta = entrada.nextInt();
         
-            if (resposta >= 1 && resposta <= 4) {
+            if (resposta!= 5) {
                 int n1, n2;
 
                 System.out.println("Digite o 1o número: ");
