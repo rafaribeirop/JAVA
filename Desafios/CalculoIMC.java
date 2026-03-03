@@ -43,15 +43,6 @@ public class CalculoIMC {
         System.out.format("%.1f%n" , imc);
         System.out.println("Sua classificação é: "+ classificacao);
 
-
-
-
-
-
-
-
-
-
-        
+        entrada.close();        
     }
 }
