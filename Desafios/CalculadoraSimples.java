@@ -3,23 +3,26 @@ package Desafios;
 import java.util.Scanner;
 
 public class CalculadoraSimples {
+    static void mostrarMenu(){
+        System.out.println("===============================");
+        System.out.println("|     Calculadora Simples     |");
+        System.out.println("===============================");
+        System.out.println("| Qual operação deseja fazer? |");
+        System.out.println("| [1] Para somar (+)          |");
+        System.out.println("| [2] Para subtrair (-)       |");
+        System.out.println("| [3] Para multiplicar (x)    |");
+        System.out.println("| [4] Para dividir (/)        |");
+        System.out.println("| [5] Para sair               |");
+        System.out.println("===============================");
+    }
     public static void main(String[] args) {
-
+        
         Scanner entrada= new Scanner(System.in);
         int resposta;
         String continuar;
 
         do {
-            System.out.println("===============================");
-            System.out.println("|     Calculadora Simples     |");
-            System.out.println("===============================");
-            System.out.println("| Qual operação deseja fazer? |");
-            System.out.println("| [1] Para somar (+)          |");
-            System.out.println("| [2] Para subtrair (-)       |");
-            System.out.println("| [3] Para multiplicar (x)    |");
-            System.out.println("| [4] Para dividir (/)        |");
-            System.out.println("| [5] Para sair               |");
-            System.out.println("===============================");
+            mostrarMenu();
             resposta = entrada.nextInt();
         
             if (resposta!= 5) {
