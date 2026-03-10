@@ -1,4 +1,4 @@
-package Condicoes;
+package condicoes;
 import java.util.Scanner;
 public class Voto {
     public static void main(String[] args) {

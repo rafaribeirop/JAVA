@@ -1,4 +1,4 @@
-package Basico;
+package basico;
 import java.util.Scanner;
 public class CalculoIMC {
     public static void main(String[] args) {

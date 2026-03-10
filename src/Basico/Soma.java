@@ -1,4 +1,4 @@
-package Basico;
+package basico;
 import java.util.Scanner;
 public class Soma {
     public static void main(Texto[] args) {

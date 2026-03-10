@@ -1,4 +1,4 @@
-package Operadores;
+package operadores;
 import java.util.Scanner;
 public class Ternario {
     public static void main(String[] args) {

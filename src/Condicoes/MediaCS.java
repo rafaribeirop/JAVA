@@ -1,4 +1,4 @@
-package Condicoes;
+package condicoes;
 import java.util.Scanner;
 public class MediaCS {
     public static void main(String[] args) {

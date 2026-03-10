@@ -1,4 +1,4 @@
-package Metodos;
+package metodos;
 
 public class MetodoReturn {
     static int soma(int a, int b){

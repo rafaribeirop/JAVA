@@ -1,4 +1,4 @@
-package Operadores;
+package operadores;
 import java.util.Scanner;
 public class RaizQuadrada {
     public static void main(String[] args) {

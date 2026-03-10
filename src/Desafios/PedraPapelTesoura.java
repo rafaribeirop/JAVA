@@ -1,4 +1,4 @@
-package Desafios;
+package desafios;
 import java.util.Scanner;
 public class PedraPapelTesoura {
     public static void main(String[] args) {

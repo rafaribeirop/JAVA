@@ -1,4 +1,4 @@
-package Repeticao;
+package repeticao;
 
 public class ContadorFor {
     public static void main(String[] args) {

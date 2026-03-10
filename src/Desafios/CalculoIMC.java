@@ -1,4 +1,4 @@
-package Desafios;
+package desafios;
 import java.util.Scanner;
 
 public class CalculoIMC {

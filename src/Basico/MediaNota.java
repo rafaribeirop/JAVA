@@ -1,4 +1,4 @@
-package Basico;
+package basico;
 import java.util.Scanner;
 public class MediaNota {
     public static void main(String[] args) {
