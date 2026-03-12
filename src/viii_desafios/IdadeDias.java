@@ -3,6 +3,8 @@ import java.util.Scanner;
 public class IdadeDias {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
+
+        System.out.println("Digite os dias: ");
         int idadeDias = entrada.nextInt();
 
         int anos = idadeDias / 365;  
