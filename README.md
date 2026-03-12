@@ -7,7 +7,7 @@ Este repositório é onde eu guardo meus exercícios de Java enquanto aprendo pr
 - operadores
 - condicionais
 - loops
-- vetores
+- arrays
 - métodos
 - programação orientada a objetos
 - desafios de lógica
