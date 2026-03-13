@@ -1,5 +1,5 @@
 ## Java Exercises ☕
-This repository is where I keep my Java exercises while learning programming ^^
+A cozy spot for my Java exercises while I'm learning programming ^^
 
 ## Contents (｡•̀ᴗ-)✧
 - Fundamentals
