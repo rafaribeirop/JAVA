@@ -1,13 +1,12 @@
- ## Exercícios de Java ☕
+## Java Exercises ☕
+A cozy spot for my Java exercises while I'm learning programming ^^
 
-Este repositório é onde eu guardo meus exercícios de Java enquanto aprendo programação ^^
-
-### Conteúdos (｡•̀ᴗ-)✧ 
-- fundamentos
-- operadores
-- condicionais
-- loops
-- arrays
-- métodos
-- programação orientada a objetos
-- desafios de lógica
+## Contents (｡•̀ᴗ-)✧
+- Fundamentals
+- Operators
+- Conditionals
+- Loops
+- Arrays
+- Methods
+- Object-Oriented Programming
+- Logic Challenges
