@@ -1,4 +1,4 @@
-package vii_poo.ii_visibilidadeobjeto;
+package ii_visibilidadeobjeto;
 
 public class CanetaObjeto {
     public static void main(String[] args) {

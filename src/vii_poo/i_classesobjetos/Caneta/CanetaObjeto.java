@@ -1,4 +1,4 @@
-package vii_poo.i_classesobjetos.Caneta;
+package i_classesobjetos.Caneta;
 import java.util.Scanner;
 
 public class CanetaObjeto {

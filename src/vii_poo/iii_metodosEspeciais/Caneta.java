@@ -1,4 +1,4 @@
-package vii_poo.iii_metodosespeciais;
+package iii_metodosespeciais;
 
 public class Caneta {
     // proteger os dados da classe

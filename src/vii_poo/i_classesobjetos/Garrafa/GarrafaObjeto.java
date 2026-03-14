@@ -1,4 +1,4 @@
-package vii_poo.i_classesobjetos.Garrafa;
+package i_classesobjetos.Garrafa;
 
 public class GarrafaObjeto {
     public static void main(String[] args) {

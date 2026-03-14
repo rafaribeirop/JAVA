@@ -1,4 +1,4 @@
-package vii_poo.i_classesobjetos.Caneta;
+package i_classesobjetos.Caneta;
 
 public class Caneta {
     String modelo;

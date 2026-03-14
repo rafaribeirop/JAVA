@@ -1,4 +1,4 @@
-package vii_poo.i_classesobjetos.doacao;
+package i_classesobjetos.doacao;
 import java.util.Scanner;
 public class DoacaoObj {
     
