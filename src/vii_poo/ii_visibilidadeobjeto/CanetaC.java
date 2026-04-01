@@ -1,4 +1,4 @@
-package ii_visibilidadeobjeto;
+package vii_poo.ii_visibilidadeobjeto;
 
 public class CanetaC {
     public String modelo;

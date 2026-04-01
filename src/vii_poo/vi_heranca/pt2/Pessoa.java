@@ -1,4 +1,4 @@
-package vi_heranca.pt2;
+package vii_poo.vi_heranca.pt2;
 
 public abstract class Pessoa {
 //Uma classe abstrata não pode ser instânciada por um objeto

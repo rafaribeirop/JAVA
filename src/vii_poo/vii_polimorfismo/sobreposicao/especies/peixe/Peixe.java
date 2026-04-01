@@ -1,6 +1,6 @@
-package vii_polimorfismo.sobreposicao.especies.peixe;
+package vii_poo.vii_polimorfismo.sobreposicao.especies.peixe;
 
-import vii_polimorfismo.sobreposicao.especies.base.Animal;
+import vii_poo.vii_polimorfismo.sobreposicao.especies.base.Animal;
 
 public class Peixe extends Animal {
     //Atribuições

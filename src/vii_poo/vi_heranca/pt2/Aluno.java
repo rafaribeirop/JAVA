@@ -1,4 +1,4 @@
-package vi_heranca.pt2;
+package vii_poo.vi_heranca.pt2;
 
 public class Aluno extends Pessoa {
 // Herança para diferença - tem atributos e métodos próprios além dos herdados

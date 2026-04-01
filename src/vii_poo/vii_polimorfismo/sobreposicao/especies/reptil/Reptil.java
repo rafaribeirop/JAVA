@@ -1,6 +1,6 @@
-package vii_polimorfismo.sobreposicao.especies.reptil;
+package vii_poo.vii_polimorfismo.sobreposicao.especies.reptil;
 
-import vii_polimorfismo.sobreposicao.especies.base.Animal;
+import vii_poo.vii_polimorfismo.sobreposicao.especies.base.Animal;
 
 public class Reptil extends Animal {
     //Atribuição

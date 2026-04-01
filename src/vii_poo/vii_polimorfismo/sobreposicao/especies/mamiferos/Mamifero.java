@@ -1,6 +1,6 @@
-package vii_polimorfismo.sobreposicao.especies.mamiferos;
+package vii_poo.vii_polimorfismo.sobreposicao.especies.mamiferos;
 
-import vii_polimorfismo.sobreposicao.especies.base.Animal;
+import vii_poo.vii_polimorfismo.sobreposicao.especies.base.Animal;
 
 public class Mamifero extends Animal {
     //Atribuição

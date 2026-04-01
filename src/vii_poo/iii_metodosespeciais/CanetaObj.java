@@ -1,4 +1,4 @@
-package iii_metodosespeciais;
+package vii_poo.iii_metodosespeciais;
 
 public class CanetaObj {
     public static void main(String[] args) {

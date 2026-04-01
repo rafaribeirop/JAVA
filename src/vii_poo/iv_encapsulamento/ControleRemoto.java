@@ -1,4 +1,4 @@
-package iv_encapsulamento;
+package vii_poo.iv_encapsulamento;
 
 public class ControleRemoto {
     public static void main(String[] args) {

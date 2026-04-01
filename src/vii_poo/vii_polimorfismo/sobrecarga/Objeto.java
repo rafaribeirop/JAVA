@@ -1,6 +1,6 @@
-package vii_polimorfismo.sobrecarga;
+package vii_poo.vii_polimorfismo.sobrecarga;
 
-import vii_polimorfismo.sobrecarga.classes.Cachorro;
+import vii_poo.vii_polimorfismo.sobrecarga.classes.Cachorro;
 
 public class Objeto {
     public static void main(String[] args) {

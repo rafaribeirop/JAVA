@@ -1,4 +1,4 @@
-package vii_polimorfismo.sobreposicao.especies.reptil;
+package vii_poo.vii_polimorfismo.sobreposicao.especies.reptil;
 
 public class Cobra extends Reptil{
 }

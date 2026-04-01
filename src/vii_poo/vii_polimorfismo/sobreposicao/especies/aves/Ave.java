@@ -1,6 +1,6 @@
-package vii_polimorfismo.sobreposicao.especies.aves;
+package vii_poo.vii_polimorfismo.sobreposicao.especies.aves;
 
-import vii_polimorfismo.sobreposicao.especies.base.Animal;
+import vii_poo.vii_polimorfismo.sobreposicao.especies.base.Animal;
 
 public class Ave extends Animal {
     //Atributo

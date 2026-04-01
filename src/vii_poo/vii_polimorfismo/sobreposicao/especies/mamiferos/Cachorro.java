@@ -1,4 +1,4 @@
-package vii_polimorfismo.sobreposicao.especies.mamiferos;
+package vii_poo.vii_polimorfismo.sobreposicao.especies.mamiferos;
 
 public class Cachorro extends Mamifero{
 

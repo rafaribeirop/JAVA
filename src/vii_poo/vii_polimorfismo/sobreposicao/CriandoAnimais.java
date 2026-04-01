@@ -1,8 +1,8 @@
-package vii_polimorfismo.sobreposicao;
+package vii_poo.vii_polimorfismo.sobreposicao;
 
-import vii_polimorfismo.sobreposicao.especies.mamiferos.Cachorro;
-import vii_polimorfismo.sobreposicao.especies.mamiferos.Canguru;
-import vii_polimorfismo.sobreposicao.especies.mamiferos.Mamifero;
+import vii_poo.vii_polimorfismo.sobreposicao.especies.mamiferos.Cachorro;
+import vii_poo.vii_polimorfismo.sobreposicao.especies.mamiferos.Canguru;
+import vii_poo.vii_polimorfismo.sobreposicao.especies.mamiferos.Mamifero;
 
 public class CriandoAnimais {
     public static void main(String[] args) {

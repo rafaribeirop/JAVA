@@ -1,4 +1,4 @@
-package vi_heranca.pt1;
+package vii_poo.vi_heranca.pt1;
 
 public class Professor extends Pessoa{
     private String especialidade;

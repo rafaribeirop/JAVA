@@ -1,4 +1,4 @@
-package vii_polimorfismo.sobreposicao.especies.base;
+package vii_poo.vii_polimorfismo.sobreposicao.especies.base;
 
 public abstract class Animal {
     //Atributos
