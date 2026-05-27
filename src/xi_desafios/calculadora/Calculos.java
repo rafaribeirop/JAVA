@@ -34,7 +34,6 @@ public class Calculos {
         return conta;
     }
 
-
     public double adicao() {
         if (numeros.isEmpty()) {
             return 0;
